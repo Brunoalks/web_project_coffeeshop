@@ -1,0 +1,8 @@
+.page {
+  min-width: 1100px; /* Largura mínima */
+  max-width: 1600px; /* Largura máxima */
+  margin: 0 auto; /* Centraliza a página */
+  font-family: "Inter", "Arial", sans-serif; /* Com fallbacks */
+  font-size: 16px;
+  line-height: 20px;
+}
